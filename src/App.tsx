@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import './App.css'
-import JalaaliDatePicker from "./components/jalaliDatePicker";
+import JalaaliDatePicker from "./components/jalaaliDatePicker";
 import {Rtl} from "./rtl";
 
 function App() {
