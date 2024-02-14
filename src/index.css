@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Vazir;
+  src: url('./assets/fonts/Vazir-Medium-FD-WOL.woff') format("woff"), url("./assets/fonts/Vazir-Medium-FD-WOL.woff2") format("woff2");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  /*font-family: dastNevis;*/
+}
+
+body {
+  font-family: Vazir;
+  font-size: 1rem;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
